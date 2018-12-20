@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Statistical Mechanics",
+    "Quantum Chemistry",
+    "Machine Learning" 
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Applied Physics"
+  institution = "University of California Berkeley"
+  year = 2019
+
+[[education.courses]]
+  course = "MS in Microbial Engineering"
+  institution = "University of Minnesota Twin Cities"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BS in Biology/Chemistry"
+  institution = "University of Minnesota Duluth"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Bio
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a computational chemist at UC Berkeley finishing my PhD in the spring of 2019. As a PhD student in Kristin Persson's group (founders of the [Materials Project](https://materialsproject.org)), my research focused on fundamental knowledge---and ultimately enhanced design---of conductive polymers. Looking forward, I am interested in accelerating the discovery and design of molecules and materials by leveraging recent developments in machine learning.
