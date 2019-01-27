@@ -10,14 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Statistical Mechanics",
-    "Quantum Chemistry",
-    "Machine Learning" 
+    "Soft Matter",
+    "Statistical Physics",
+    "Computational Chemistry",
+    "Learning (both machine and human :)" 
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Applied Physics"
+  course = "PhD in AS&T (Applied Physics)"
   institution = "University of California Berkeley"
   year = 2019
 
@@ -35,4 +36,4 @@ weight = 5
 
 # Bio
 
-I am a computational chemist at UC Berkeley finishing my PhD in the spring of 2019. As a PhD student in Kristin Persson's group (founders of the [Materials Project](https://materialsproject.org)), my research focused on fundamental knowledge---and ultimately enhanced design---of conductive polymers. Looking forward, I am interested in accelerating the discovery and design of molecules and materials by leveraging recent developments in machine learning.
+I am an [AS&T](http://ast.berkeley.edu) (applied physics) graduate student at UC Berkeley finishing my PhD in the spring of 2019. As a PhD student in [Kristin Persson’s Group](https://perssongroup.lbl.gov) (founders of the [Materials Project](https://materialsproject.org)), my research focused on the physics of conducting polymers with the end goal of enhanced materials design. Primarily, I used a combination of quantum chemistry and statistical mechanics to model and describe disordered polymers. Looking forward, I am interested in leveraging advances in statistics, mathematics, and computer science to develop models and algorithms for a variety of physical systems.

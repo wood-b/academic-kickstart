@@ -68,7 +68,7 @@ enableGitInfo = false
   office_hours = """
   Email me to schedule a meeting
   """
-  phone = "715-505-8447"
+  phone = "(715) 505-8447"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -327,7 +327,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_website_2019.pdf"
+  url = "files/cv_website_Jan_19.pdf"
   weight = 5
 
 # Search.
