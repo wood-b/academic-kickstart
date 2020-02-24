@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Soft Matter",
-    "Statistical Physics",
     "Computational Chemistry",
-    "Learning (both machine and human :)" 
+    "Learning — both machine and human :)",
+    "Statistical Mechanics",
+    "High Performance Computing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,4 +36,8 @@ weight = 5
 
 # Bio
 
-I am an [AS&T](http://ast.berkeley.edu) (applied physics) graduate student at UC Berkeley finishing my PhD in the spring of 2019. As a PhD student in [Kristin Persson’s Group](https://perssongroup.lbl.gov) (founders of the [Materials Project](https://materialsproject.org)), my research focused on the physics of conducting polymers with the end goal of enhanced materials design. Primarily, I used a combination of quantum chemistry and statistical mechanics to model and describe disordered polymers. Looking forward, I am interested in leveraging advances in statistics, mathematics, and computer science to develop models and algorithms for a variety of physical systems.
+I am a computational scientist with a focus on understanding molecular systems and communicating that knowledge as clearly as possible. Currently, I am a Machine Learning for Science Postdoctoral Fellow at [NERSC](https://www.nersc.gov), leveraging deep learning algorithms to aid in the discovery of catalysis materials in collaboration with [Zachary Ulissi](http://ulissigroup.cheme.cmu.edu). Before starting my postdoc, I finished my PhD in [Kristin Persson’s Group](https://perssongroup.lbl.gov), where my research focused on the physics of conducting polymers with the goal of enhanced materials design. Looking forward, the vision for my research is to combine high performance computing, machine learning, and domain expertise to tackle problems in the physical sciences. 
+
+Outside of science I enjoy being in the ocean and going on road trips in my van.
+
+

@@ -13,7 +13,7 @@ title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Brandon Wood"
+copyright = "&copy; 2020 Brandon Wood"
 
 theme = "academic"
 enableEmoji = true
@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Brandon Wood"
-  role = "Graduate Student Researcher"
+  role = "ML for Science Postdoc"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,12 +63,12 @@ enableGitInfo = false
   avatar = "my_pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "b.wood@berkeley.edu"
-  address = "Building 33 Room 143E, Lawrence Berkeley National Laboratory, California, 94720, USA"
+  email = "bwood@lbl.gov"
+  address = "NERSC Building 59, Lawrence Berkeley National Laboratory, California, 94720, USA"
   office_hours = """
   Email me to schedule a meeting
   """
-  phone = "(715) 505-8447"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
