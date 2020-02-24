@@ -261,7 +261,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:b.wood@berkeley.edu"  # For a direct email link, use "mailto:test@example.org" "#contact".
+    link = "mailto:bwood@lbl.gov"  # For a direct email link, use "mailto:test@example.org" "#contact".
 
   #[[params.social]]
     #icon = "twitter"
@@ -327,7 +327,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_website_Jan_19.pdf"
+  url = "files/cv_website_feb2020.pdf"
   weight = 5
 
 # Search.
