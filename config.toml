@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "bwood@lbl.gov"
-  address = "NERSC Building 59, Lawrence Berkeley National Laboratory, California, 94720, USA"
+  address = "Building 59 Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, Berkeley, CA 94720 USA"
   office_hours = """
   Email me to schedule a meeting
   """

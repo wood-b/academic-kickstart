@@ -36,7 +36,7 @@ weight = 5
 
 # Bio
 
-I am a computational scientist with a focus on understanding molecular systems and communicating that knowledge as clearly as possible. Currently, I am a Machine Learning for Science Postdoctoral Fellow at [NERSC](https://www.nersc.gov), leveraging deep learning algorithms to aid in the discovery of catalysis materials in collaboration with [Zachary Ulissi](http://ulissigroup.cheme.cmu.edu). Before starting my postdoc, I finished my PhD in [Kristin Persson’s Group](https://perssongroup.lbl.gov), where my research focused on the physics of conducting polymers with the goal of enhanced materials design. Looking forward, the vision for my research is to combine high performance computing, machine learning, and domain expertise to tackle problems in the physical sciences. 
+I am a computational scientist with a focus on understanding molecular systems and communicating that knowledge as clearly as possible. Currently, I am a NESAP for Learning Postdoctoral Fellow at [NERSC](https://www.nersc.gov), leveraging deep learning algorithms to aid in the discovery of catalysis materials in collaboration with [Zachary Ulissi](http://ulissigroup.cheme.cmu.edu). Before starting my postdoc, I finished my PhD in [Kristin Persson’s Group](https://perssongroup.lbl.gov), where my research focused on the physics of conducting polymers with the goal of enhanced materials design. Looking forward, the vision for my research is to combine machine learning, high performance computing, and domain expertise to tackle problems in the physical sciences. 
 
 Outside of science I enjoy being in the ocean and going on road trips in my van.
 
