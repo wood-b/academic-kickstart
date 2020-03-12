@@ -224,7 +224,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 2
+    post_format = 1
 
     # Publication list format.
     #   0 = Simple
@@ -303,10 +303,10 @@ enableGitInfo = false
   url = "#publications"
   weight = 3
 
-#[[menu.main]]
-  #name = "Posts"
-  #url = "#posts"
-  #weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 4
 
 [[menu.main]]
   name = "Projects"
